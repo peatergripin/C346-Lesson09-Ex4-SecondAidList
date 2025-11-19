@@ -4,7 +4,7 @@ const medicalEquipmentData = [
 ******************/
   {
     title: "Mobility",
-    icon: "👨‍🦽‍➡️",
+    icon: "👨‍🦽",
     data: [
       {
         name: "Wheelchair",
@@ -13,8 +13,8 @@ const medicalEquipmentData = [
         price: 80,
       },
       {
-        name: "Walking Stick",
-        imageUrl: "./assets/img/WalkingStick4.jpg",
+        name: "Walking Frame",
+        imageUrl: require("./assets/img/walkingFrameA.jpeg"),
         description: "Foldable aluminium frame.",
         price: 20,
       },

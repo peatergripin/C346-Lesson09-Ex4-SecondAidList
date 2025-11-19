@@ -18,7 +18,7 @@ Lessons 9 & 10 taught us on FlatLists and SectionLists, both of which acceepts d
 ## 🎬 Demo / Media
 
 <p align="center">
-  <img src="./assets/img/C346-Lesson09-Ex3.gif" alt="App Demo" />
+  <img src="./assets/img/C346-Lesson09-Ex4.gif" alt="App Demo" />
 </p>
 <p align="center">
   <img src="./assets/img/screenshot1.png" width="180" alt="Screenshot1" />
